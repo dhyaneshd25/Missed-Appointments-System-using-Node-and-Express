@@ -1,7 +1,7 @@
 // Step 1: Set up the project
 // Initialize a new Node.js project and install required dependencies
 // Command: npm init -y
-// Command: npm install express mongoose emailjs-com
+// Command: npm install express mongoose nodemailer
 
 const express = require('express');
 const mongoose = require('mongoose');
